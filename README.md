@@ -24,7 +24,7 @@ Yes, that's it.
 
 ---
 
-*If you want to include some additional option, screen.scss open the file and enter the commands.*
+*If you want to include some additional option, open the file `screen.scss` and write the commands.*
 
 *For more information, read the [documentation](http://compass-style.org/help/tutorials/spriting/).*
 
